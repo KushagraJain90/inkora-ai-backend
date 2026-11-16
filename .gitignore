@@ -1,0 +1,45 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+temp/
+tmp/
+
+# Test outputs
+.coverage
+htmlcov/
+
+# Local backups
+*_backup.py
+main_before_*.py
+
+# Archives
+*.zip
+
+# Local reference files
+requirements-current.txt
