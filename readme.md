@@ -139,6 +139,3 @@ You should now see:
 - `requirements.txt`
 - Test files
 
-The root-level `evaluation_prompt.txt` and `README.txt` should be gone.
-
-**Send me the updated `git status --short` output.** Then we'll make the first commit.
