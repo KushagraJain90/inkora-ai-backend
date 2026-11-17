@@ -1,0 +1,40 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Git
+.git/
+.gitignore
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local backups
+*_backup.py
+main_before_*.py
+
+# Archives and temporary files
+*.zip
+*.log
+*.tmp
+temp/
+tmp/
+
+# Test coverage
+.coverage
+htmlcov/
